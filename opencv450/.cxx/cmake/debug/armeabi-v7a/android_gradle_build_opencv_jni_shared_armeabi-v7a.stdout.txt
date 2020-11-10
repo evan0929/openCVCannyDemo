@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/dd8/Documents/my/opencv450/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.
